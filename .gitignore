@@ -39,3 +39,6 @@ tf-cloud-init
 tf-cloud-init.pub
 tf-packer
 tf-packer.pub
+
+# Ignore TF_LOG
+logs.txt
