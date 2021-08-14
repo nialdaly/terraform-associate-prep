@@ -41,6 +41,8 @@ tf-packer
 tf-packer.pub
 key
 key.pub
+ssh_key
+ssh_key.pub
 
 # Ignore TF_LOG
 logs.txt
